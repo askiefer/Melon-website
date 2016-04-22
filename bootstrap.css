@@ -1,0 +1,16 @@
+/* navbar */
+
+.navbar-default {
+    background-color: #BCEE68;
+    border-color: #BCEE68;
+}
+
+span {
+    text-align: center;
+    
+}
+
+.container {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
